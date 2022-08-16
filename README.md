@@ -1,4 +1,4 @@
-# Plasma Daily Builds
+# Plasma-Mobile (x64) Builds
 [![iso_build](https://github.com/manjaro/manjaro-plasma-mobile-x64/workflows/iso_build/badge.svg)](https://github.com/manjaro/plasma-daily/actions)
 
 ## description
