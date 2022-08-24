@@ -22,5 +22,5 @@ Images can be found at [github releases](https://github.com/manjaro/manjaro-plas
 
 ```
 user: manjaro
-password: manjaro
+password: 123456
 ```
